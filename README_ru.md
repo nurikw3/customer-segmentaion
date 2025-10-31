@@ -17,7 +17,7 @@
 
 **Выполненные шаги:**
 
-* Преобразовал дату `Dt_Customer` в формат `datetime`:
+ Преобразовал дату `Dt_Customer` в формат `datetime`:
 
   ```python
   df["Dt_Customer"] = pd.to_datetime(df["Dt_Customer"], dayfirst=True)
