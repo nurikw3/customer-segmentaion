@@ -3,6 +3,9 @@
 
 **Датасет:** [https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering](https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering)
 
+- 🇬🇧 [English version](README_en.md)
+- 🧑‍💻 [NOTES](analysis_notes.md)
+
 ---
 
 ## 📸 Превью проекта
