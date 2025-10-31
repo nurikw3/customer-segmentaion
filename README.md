@@ -1,4 +1,11 @@
 ## Customer Segmentation
+
+# 🌍 README Languages
+
+- 🇷🇺 [Русская версия](README_ru.md)
+- 🇬🇧 [English version](README_en.md)
+
+
 data: https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering
 Полный анализ данных и преобработка
 - Сделал фичи под пандас (поменял Dt_Customer -> pd.to_datetime(df["Dt_Customer"],dayfirst=True))
